@@ -45,7 +45,7 @@ Follow these steps to set up and run the Kafka producer application:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```sh
-   git clone https://github.com/your-username/kafka-producer-spring-boot.git
+   git clone https://github.com/Ninjavin/Apache-Kafka-Producer.git
    ```
 
 2. **Configure Kafka Properties**:
